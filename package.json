@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "index.js",
   "dependencies": {
-    "lodash": "4.17.4",
+    "lodash": "4.17.19",
     "react": "16.9.0",
     "react-dom": "16.9.0"
   },
